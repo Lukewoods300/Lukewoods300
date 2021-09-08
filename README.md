@@ -7,37 +7,12 @@
   <img src="https://profile-counter.glitch.me/lukewoods300/count.svg" />
 </p>
 
-## About me
+# Adrian Twarog
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-I'm Luke Woods. A Software Engineer Student at SJSU. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
-
-
-## Things I am passionate about
-
-- Android :robot:
-- Open source :octocat:
-
-## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
-
-
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
