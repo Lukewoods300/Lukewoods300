@@ -10,9 +10,7 @@
 # Luke Woods
 I'm Luke from San Jose, CA!  
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 Java, HTML, CSS, JS
+## Skills 
+* 💻 Java, JavaScript (HTML/CSS)
 
-## Examples of Work
+
