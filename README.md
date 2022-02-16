@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hello World! :wave:
 
 <img src="https://raw.githubusercontent.com/lukewoods300/lukewoods300/master/banner.png" alt="Hello world">
 
