@@ -12,5 +12,7 @@ I'm Luke from San Jose, CA!
 
 ## Skills 
 * 💻 Java, JavaScript (HTML/CSS)
+* 💻 Android Development
+
 
 
