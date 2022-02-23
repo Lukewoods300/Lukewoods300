@@ -7,12 +7,15 @@
   <img src="https://profile-counter.glitch.me/lukewoods300/count.svg" />
 </p>
 
-# Luke Woods
-I'm Luke from San Jose, CA!  
 
 ## Skills 
-* 💻 Java, JavaScript (HTML/CSS)
-* 💻 Android Development
+* OS: Currently using Windows + Linux/Unix (Ubuntu, Linux Mint), Years of experience with MacOS
+* Programming Language(s): Java, Proficient with JavaScript & HTML/CSS
+* IDE: IntelliJ IDEA (Community Edition), Eclipse, Visual Studio Code	
+* Databases: MySQL, MongoDB
+* Frameworks/Libraries: Spring Boot, Express, React
+* Relevant tools: Maven, Android Studio & Android SDK, Git, Node.js
+
 
 
 
